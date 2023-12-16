@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Alvin and I love making practical applications and I am very intreseted in using AI to speed up my workflow (I dont like to work too hard😴)
+- 🔭 When I learn enough about apps I would love to make the simplest and the best open source revsion app (My inspiration came from Space:Spaced Repition)
+- 🌱 I’m currently learning A levels on Physics, CS and Maths
+- 😎 I don't know how , but i would love to collaborate with someone to make Maxim work for all subjects.
+- 💻 Fun fact: I use ChatGPT for revision for school
+
+
+
 <!--
 **a-l-pha/a-l-pha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +19,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
