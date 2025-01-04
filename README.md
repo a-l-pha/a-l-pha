@@ -2,8 +2,7 @@
 
 🌱 My name is Alvin and I love making mini practical projects as they help me develop my coding skills and they are fun to do. I also integratee  AI to speed up my workflow like ChatGPT search to help find docuentation faster so I focus on problem solving rather that rote syntax memorisation (I like to work smarter not harder 🧠).
 
-![image](https://github.com/user-attachments/assets/058aee52-08d2-4410-8faf-f0cc29aa55cc)
-![image](https://github.com/user-attachments/assets/c07e4afa-42a4-4376-8fe0-ac8d758ec409)
+
 
 
 
