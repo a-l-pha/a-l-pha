@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-My name is Alvin and I love making practical applications and I am very intreseted in using AI to speed up my workflow (I dont like to work too hard😴)
+My name is Alvin and I love making practical applications and I am very intreseted in using AI to speed up my workflow (I like to work smarter not harder😴)
+
 - 🔭 When I learn enough about apps I would love to make the simplest and the best open source revsion app (My inspiration came from Space:Spaced Repition)
 - 🌱 I’m currently learning A levels on Physics, CS and Maths
-- 😎 I don't know how , but i would love to collaborate with someone to make Maxim work for all subjects.
-- 💻 Fun fact: I use ChatGPT for revision for school
+- 📝 I'm fascinated at the prospects of on device AI to help people work anywhere in ease.
+- 💻 Fun fact: My favourite sports are badminton and tennis.
 
 
 
