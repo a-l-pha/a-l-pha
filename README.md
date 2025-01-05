@@ -1,6 +1,6 @@
 <h2> Hello there 👋</h2>
 
-🌱 My name is Alvin and I love making mini practical projects as they help me develop my coding skills, and they are fun to do. I also integrate AI to speed up my workflow like ChatGPT search to help find documentation faster so I focus on problem-solving rather than rote syntax memorisation (I like to work smarter not harder 🧠).
+🌱 My name is Alvin, and I love working on mini practical projects because they help me develop my coding skills while being fun to create. I also integrate AI, such as ChatGPT, to speed up my workflow by quickly finding documentation, allowing me to focus on problem-solving rather than rote syntax memorization - I believe in working smarter, not harder 🧠.
 
 
 
