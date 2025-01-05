@@ -1,13 +1,13 @@
 <h2> Hello there 👋</h2>
 
-🌱 My name is Alvin and I love making mini practical projects as they help me develop my coding skills and they are fun to do. I also integratee  AI to speed up my workflow like ChatGPT search to help find docuentation faster so I focus on problem solving rather that rote syntax memorisation (I like to work smarter not harder 🧠).
+🌱 My name is Alvin and I love making mini practical projects as they help me develop my coding skills, and they are fun to do. I also integrate AI to speed up my workflow like ChatGPT search to help find documentation faster so I focus on problem-solving rather than rote syntax memorisation (I like to work smarter not harder 🧠).
 
 
 
 
 
-- 🔭 In the future I would love to make the simplest and the best open source revsion app (My inspiration came from Space:Spaced Repition).
-- 🏫 I’m currently learning A levels on Physics, CS and Maths
+- 🔭 In the future, I would love to make the simplest and the best open source revision app (My inspiration came from Space:Spaced Repetition).
+- 🏫 I’m currently learning A-levels on Physics, CS and Maths
 - 💻 I'm fascinated at the prospects of on device AI to help people work anywhere in ease.
 - 🏸 Fun fact: My favourite sports are badminton and tennis.
 
@@ -55,7 +55,7 @@
 
 </div>
 
-**(My favorite tech)**
+**(My favourite tech)**
 
 
 
