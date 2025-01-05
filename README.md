@@ -55,7 +55,7 @@
 
 </div>
 
-**(My favourite software)**
+**(My favourite technology)**
 
 
 
